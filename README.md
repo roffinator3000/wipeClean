@@ -6,10 +6,13 @@ Do you want your error messages to be slowly wiped away?
 
 Then try wipeclean!
 
+## Install
 `npm install wipeclean -g`
 
-you can also find it on Aur
-https://aur.archlinux.org/packages/wipeclean
+You can also [find it on Aur](https://aur.archlinux.org/packages/wipeclean) and install with an AUR helper like yay:
+`yay -S wipeclean`
+
+Note that the yay package is unofficial and not created by the original developer.
 
 ## Usage
 
